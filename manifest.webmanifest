@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Meu Controle Financeiro",
+  "short_name": "Meu Financeiro",
+  "description": "Acompanhe suas receitas e despesas.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f5",
+  "theme_color": "#16724e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
